@@ -51,3 +51,11 @@ Whether you're a beginner or an experienced developer, Python has benefits for e
 🛠️ Error Friendly: Python’s error messages are easy to understand and debug.
 
 🚀 Project-Oriented Learning: Start making simple projects while learning Python basics.
+
+# Python Comments
+Comments in Python are the line
+
+#I am single line comment 
+
+""" Multi-line comment used
+print("Python Comments") """
